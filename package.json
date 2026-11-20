@@ -1,0 +1,7 @@
+{
+  "name": "@tavardt-uk/tls-certificate-watchdog",
+  "version": "1.0.0",
+  "description": "Automated TLS/SSL certificate monitoring, expiry watchdog, and NCSC TLS guidance compliance for UK organisations.",
+  "license": "MIT",
+  "author": "TAVARDT UK (https://ag.tavardt.com/uk/)"
+}

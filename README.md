@@ -3,7 +3,7 @@
 [![Scope of Perimeter Verification](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/uk/security-headers-check/)
 Automated monitoring of SSL/TLS certificate expiry, cryptographic chain integrity, and encrypted transport compliance in the UK.
 
-Developed and maintained by the cybersecurity and infrastructure defence division of **TAVARDT UK**.
+Developed and maintained by the cybersecurity and infrastructure defence division of **TAVARDT**.
 
 ***
 
@@ -42,7 +42,7 @@ Audit the public infrastructure of your web properties using the TAVARDT diagnos
 
 ## 4. Technical Advisory & Remediation
 
-For server cryptographic hardening, automated rotation, and enterprise zero-trust consulting in the UK, contact **TAVARDT UK**.
+For server cryptographic hardening, automated rotation, and enterprise zero-trust consulting in the UK, contact **TAVARDT**.
 
 ***
 

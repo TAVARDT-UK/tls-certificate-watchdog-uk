@@ -1,7 +1,9 @@
 # TLS/SSL Certificate Watchdog
 
-[![Scope of Perimeter Verification](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/uk/security-headers-check/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Scope of Perimeter Verification](https://img.shields.io/badge/TAVARDT-Technical%20Audit-5b3cf5.svg)](https://tools.tavardt.com/uk/security-headers-check/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+
 Automated monitoring of SSL/TLS certificate expiry, cryptographic chain integrity, and encrypted transport compliance in the UK.
 
 Developed and maintained by the cybersecurity and infrastructure defence division of **TAVARDT**.
